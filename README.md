@@ -3,7 +3,7 @@ This project explores strategic AI agents in an extended 16x16 Checkers game wit
 
 **Key Features**
 🧩 **Multiple AI Algorithms:**
-Minimax, Alpha-Beta Pruning, and Tabular Q-Learning  
+Minimax, Alpha-Beta Pruning, and Reinforcement Learning via Q-Learning  
 
 ♟️ **Special Rules:**
 To make the gameplay more dynamic and challenging for the AI agents, we added several custom rules:
