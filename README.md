@@ -3,10 +3,13 @@
 This project explores strategic AI agents in an extended 16x16 Checkers game with unique rule modifications.
 
 **Key Features**
+
 🧩 **Multiple AI Algorithms:**
-Minimax, Alpha-Beta Pruning, and Reinforcement Learning via Q-Learning  
+
+Minimax, Alpha-Beta Pruning, and Reinforcement Learning via Q-Learning.
 
 ♟️ **Special Rules:**
+
 To make the gameplay more dynamic and challenging for the AI agents, we added several custom rules:
 - All pieces can move forward and backward
 - King promotion after 2 captures (not necessarily in one turn)
@@ -15,6 +18,7 @@ To make the gameplay more dynamic and challenging for the AI agents, we added se
 - Pieces can skip 1–2 diagonal blocks if valid
 
 🎮 **Game Modes**
+
 The project includes multiple playable modes, each defined in a separate Python file:
 | File Name  | Description                    |
 | ---------- | ------------------------------ |
