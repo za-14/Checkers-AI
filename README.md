@@ -1,4 +1,4 @@
-**Checkers-AI**
+**Checkers-AI**/n
 This project explores strategic AI agents in an extended 16x16 Checkers game with unique rule modifications.
 
 **Key Features**
